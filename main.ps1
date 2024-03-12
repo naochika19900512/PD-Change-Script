@@ -1,6 +1,6 @@
 # 古いプリンタードライバの名前
 $oldDriverName = "OKI Universal PCL 5"
-# 新しい
+# 新しいプリンタードライバの名前
 $NewDriverName = "PaperCut Global PostScript"
 
 # システム上のすべてのプリンタを取得し、それぞれに新しいドライバを設定
